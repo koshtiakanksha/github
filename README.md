@@ -21,7 +21,6 @@
 
 - 📫 How to reach me **koshtiakanksha@gmail.com**
 
-- 📄 Know about my experiences [https://koshtiakanksha.github.io/cv/](https://koshtiakanksha.github.io/cv/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
